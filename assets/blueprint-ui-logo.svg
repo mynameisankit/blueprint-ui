@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Blueprint UI logo</title>
+  <desc id="desc">A cobalt blueprint grid framing a white geometric interface tree.</desc>
+  <rect width="256" height="256" rx="48" fill="#0A4D9E"/>
+  <g fill="none" stroke="#72C8FF" stroke-width="2" opacity=".6">
+    <path d="M32 64H224M32 112H224M32 160H224M32 208H224"/>
+    <path d="M64 32V224M112 32V224M160 32V224M208 32V224"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="10" d="M72 80H184V176H72z"/>
+    <path stroke-width="8" d="M96 112H160M96 144H128"/>
+    <circle cx="160" cy="144" r="12" fill="#FFFFFF" stroke="none"/>
+  </g>
+  <circle cx="184" cy="80" r="9" fill="#72C8FF"/>
+</svg>
